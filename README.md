@@ -1,5 +1,5 @@
 # COMP-5350
-Introduction to Digital Forensics with Farah Kandah
+Introduction to Digital Forensics with Farah Kandah Fall 2023
 
 ## **Project 1:** 
 For this project, you will focus on the analysis of FAT16 and NTFS partitions and will require an understanding of how to recover data from each properly. You will be working on a team of two, where you will be provided with a disk image Download disk image that was collected from a laptop during a forensics investigation. This investigation will require you to critically evaluate and analyze digital artifacts on the laptop. The overall objective of this project is to recover data and determine if there is proof of any criminal activity.
